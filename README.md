@@ -10,27 +10,6 @@ This project follows a layered MVC architecture and supports role-based access f
 <h1>🛒 E-Commerce Spring Boot</h1>
  
 <p>A production-oriented Java e-commerce web application built with Spring Boot, JSP, Spring Security, and Hibernate — featuring role-based access for admin and customer workflows.</p>
-<br/>
-<!-- Badges Row 1: Community -->
-<p>
-  <a href="https://github.com/jaygajera17/E-commerce-project-springBoot/stargazers">
-    <img src="https://img.shields.io/github/stars/jaygajera17/E-commerce-project-springBoot?style=flat-square&logo=github&labelColor=1a1a2e&color=f5a623&label=Stars" alt="Stars"/>
-  </a>
-  <a href="https://github.com/jaygajera17/E-commerce-project-springBoot/network/members">
-    <img src="https://img.shields.io/github/forks/jaygajera17/E-commerce-project-springBoot?style=flat-square&logo=github&labelColor=1a1a2e&color=4a90d9&label=Forks" alt="Forks"/>
-  </a>
-  <a href="https://github.com/jaygajera17/E-commerce-project-springBoot/issues">
-    <img src="https://img.shields.io/github/issues/jaygajera17/E-commerce-project-springBoot?style=flat-square&logo=github&labelColor=1a1a2e&color=e05c5c&label=Issues" alt="Issues"/>
-  </a>
-  <a href="https://github.com/jaygajera17/E-commerce-project-springBoot/pulls">
-    <img src="https://img.shields.io/github/issues-pr/jaygajera17/E-commerce-project-springBoot?style=flat-square&logo=github&labelColor=1a1a2e&color=8e44ad&label=Pull+Requests" alt="Pull Requests"/>
-  </a>
-  <a href="https://github.com/jaygajera17/E-commerce-project-springBoot/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/jaygajera17/E-commerce-project-springBoot?style=flat-square&logo=github&labelColor=1a1a2e&color=27ae60&label=Contributors" alt="Contributors"/>
-  </a>
-</p>
-
-<br/>
 
 ## Highlights
 
@@ -206,26 +185,3 @@ Current priorities:
 - Complete e-commerce domain: cart, checkout, auth, search, and API docs.
 - Industry patterns: caching, concurrency control, observability, and scalability.
 - Long-term architecture: event-driven patterns and microservice decomposition guide.
-
-## Demo
-
-demo video: https://youtu.be/c6WWdINWSlI
-
-## ⭐ Support This Project
-
-If this project helped you, please consider giving it a star on GitHub.
-Your support helps improve visibility and motivates future maintenance.
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=jaygajera17%2FE-commerce-project-springBoot&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jaygajera17/E-commerce-project-springBoot&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jaygajera17/E-commerce-project-springBoot&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jaygajera17/E-commerce-project-springBoot&type=date&legend=top-left" />
- </picture>
-</a>
-
-<div align="center">
-  <sub>Built as a college project · Grown into a community resource · Maintained with ❤️</sub>
-</div>
